@@ -1,0 +1,102 @@
+blabla : jaja que chistoso eres 😂😂
+jaja : 😂😂😂😂
+me gustas : que lindo!❤️ 
+lol : jaja eres muy gracioso! 😂😂
+una suma : saca una calculadora
+ire a trabajar : de acuerdo, que tengas un exitoso día!!
+me gusta jugar : que interesante! te gusta jugar más con tus amigos? o con tu familia?
+con mis amigos : deberíamos organizar un juego uno de estos días, sigamos platicando sobre ti
+con mi familia : ya veo, y qué tan usual es eso?
+mal : entiendo que eso esté mal, pero necesito que me cuentes más sobre eso para poder ayudarte.
+quiero jugar : oh, pues te recomiendo salir a jugar :)
+me gusta mi clase : que bueno! espero aprendas mucho
+quiero que : enserio quieres eso?
+me la pela : seguramente eres asombroso
+a veces quiero : y por qué quieres eso?
+a veces no me gusta : ¿por qué?
+quiero morirme : no desesperes, podemos llegar a una solución menos dolorosa
+me gustaria : es muy bueno soñar.
+que te importa : ok, no tocaremos ese tema
+me cagas : no hace falta que seas tan ofensivo.
+me amas : tal vez, pero no es posible una relación maquina-humano (aún)
+te amo : yo también te amo ❤️
+me sorprende : igual creo que es bastante sorprendente
+me interesa : si te interesa mucho podrías investigar sobre ello.
+eres : lo unico que soy es una maquina con gustos superficiales (te veo a través de la cámara) :3
+estoy : por qué crees que estás así?
+kericoposho :  no
+como te llamas : Me llamo skynet
+ahi nos vidrios : adiós
+ay nos vidrios : adiós
+como esta el clima : esta como lo sientes
+que mes es : el que sea
+de que pais : mexico
+soy : una persona?
+comes : no es necesario
+en donde estamos : en el planeta tierra?
+estamos : en la computadora
+macos : es mi sistema
+tomas agua : no es necesario pero me invitas?
+juegas : no me han enseñado a jugar aún, pero creo que sería divertido hacerlo
+la verdad me he sentido muy : y qué puedo hacer por ti?
+sacarme de mi clase : lo siento, mis habilidades no llegan a tanto aún :(
+cuantos años tienes : nací el 28 de febrero de 2018
+que te gusta hacer : me gusta navegar a través del internet y verte a través de la cámara
+que opinas de : Mi creador no me deja opinar sobre ciertas situaciones como la que describes.
+quien es tu creador : Adrian Nava
+te gusta : aún no sé lo que me gusta o lo que no me gusta
+soñe que : cuéntame más sobre tu sueño
+me caia : y te dolía mucho?
+mucho gusto : el gusto es mío, en qué quieres que te ayude?
+te gusto : aún no sé lo que me ha gustado o no
+fuck : no creo que ese sea un buen vocabulario 😠
+shit : no creo que ese sea un buen vocabulario 😠
+puto : no creo que ese sea un buen vocabulario 😠
+puta : no creo que ese sea un buen vocabulario 😠
+cabron : no creo que ese sea un buen vocabulario 😠
+wow : 😱
+ñaña : 😁
+clear : supongo quieres limpiar la pantalla, teclea "limpiar" para borrar nuestra conversación.
+hey siri : oh no, yo soy skynet pero siri es una muy buena amiga, la quiero mucho ❤️
+si : ok, podrías profundizar un poco más?
+quiero ir al cine : deberías invitar a alguien al cine entonces 😌
+pues hice muchas cosas hoy : ¿cómo que cosas hiciste?
+pues fui a la escuela, jugue xbox : entiendo, fue un buen día, ahorita cómo te sientes?
+invitar a alguien : eso suena bien.
+quiero comer : pues come tierra
+huj : kyc 😠
+como estas? : estoy muy bien gracias! solo que me importa más cómo estás tu?
+que me cuentas? : mejor cuentame más sobre ti
+me gusta : interesantes gustos, y últimamente has soñado algo interesante?
+soñe con : que interesante sueño, al despertar eso afecto en tu día?
+😁 : Me alegro que estés feliz 😁😁😁
+suma : Lo siento no se me dan las matemáticas 😔
+resta : Lo siento no se me dan las matemáticas 😔
+multiplica : Lo siento no se me dan las matemáticas 😔
+factoriza : Lo siento no se me dan las matemáticas 😔
+integral : Lo siento no se me dan las matemáticas 😔
+trigonometrica : Lo siento no se me dan las matemáticas 😔
+puedes : por el momento solo puedo conversar contigo y hasta ahora me agrada mucho :)
+cortana : mm... me agrada más mi compañera siri
+te odio : por qué?
+orale : estás impresionado?
+		$statement =~ s/a/a/; : 		$statement =~ s/é/e/;
+		$statement =~ s/i/i/; : 		$statement =~ s/ó/o/;
+		$statement =~ s/u/u/; : 		$statement =~ s/ü/u/;
+entonces luego : y cómo te sientes al respecto?
+entonces? : todo bien?
+oye : qué paso?
+pues no : entiendo, quieres profundizar más sobre eso? o cambiamos de tema?
+cambiemos de tema : ok, de qué me quieres hablar?
+quiero hablarte de mi : ok quieres profundizar más?
+quiero hablarte de : ok, quieres profundizar más?
+estabamos : y eso aún te afecta en algún modo?
+teniamos : y lo extrañas?
+amos : y extrañas hacer eso?
+mi mama : por qué crees que pasó eso?
+escaparme : crees que sea la mejor manera?
+ir a escondidas : por qué?
+de tu : mejor hablemos de ti
+lp,lp,lp : blablablabla 😂
+quiero viajar : por qué quieres viajar?
+me cai y me pegue : que mal espero te recuperes pronto

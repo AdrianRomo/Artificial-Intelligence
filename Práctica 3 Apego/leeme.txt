@@ -1,0 +1,7 @@
+La carpeta Arff contiene los archivos .arff utilizados (equilibrado y no equilibrado)
+
+La carpeta Txt contiene los archivos no convertidos a .arff, el psifall original y el equilibrado.
+
+La carpeta Weka contiene los archivos divididos usando el atributo "Edad" y sin este atributo.
+
+Dentro de cada una de est‡s carpetas se encuentran los 4 archivos .arff editados con weka, 2 con filtros y 2 sin filtros igual que otra carpeta con los resultados de cada prueba de estos 4 archivos a 5 pliegues y 10 pliegues.
