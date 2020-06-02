@@ -1,0 +1,2 @@
+tr 'A-Z' 'a-z' < bibliamin.txt | tr -sc 'A-Za-zÁÉÍÓÚÑÜáéíóúñü' '\n' < bibliamin.txt | sort | uniq -c | sort -n -r | wc
+cambia mayusculas a minusculas, quita saltos de carro < a bibliamin.txt los ordena quita las repeticiones ordena por mayor a menor de apariciones cuenta el numero de palabras
